@@ -1,2 +1,2 @@
-# Advent-of-Code-2019
+# Advent of Code 2019
 Solutions for Advent of Code 2019 🎅🎄
