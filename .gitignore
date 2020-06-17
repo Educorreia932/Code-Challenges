@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+*.graphml
+
+*.pdf
+
+Day 6/test.txt
