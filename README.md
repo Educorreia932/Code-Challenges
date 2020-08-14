@@ -1,1 +1,1 @@
-# Hacker-Rank
+# Code Challenges
