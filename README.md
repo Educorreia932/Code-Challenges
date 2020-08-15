@@ -7,5 +7,5 @@
 ## Code Wars
 
 **Rank:** 7 kyu  
-**Honor:** 47  
-**Total Completed Kata:** 5  
+**Honor:** 63 
+**Total Completed Kata:** 8  
