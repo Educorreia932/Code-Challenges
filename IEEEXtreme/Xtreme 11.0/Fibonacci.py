@@ -1,6 +1,3 @@
-# Number of test cases
-t = int(input())
-
 def fibonacci(n):
     a, b = 1, 1
 
@@ -10,6 +7,9 @@ def fibonacci(n):
     return a
 
 last_digits = []
+
+# Number of test cases
+t = int(input())
 
 # The last digit of a fibonacci sequence number repeats every 60th term
 for i in range(60):
