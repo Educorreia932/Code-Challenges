@@ -32,7 +32,7 @@ Solutions for [Advent of Code 2020](https://adventofcode.com/2020).
 | [Report Repair](https://adventofcode.com/2020/day/1)       | [Day 1](Day%201) | ⭐⭐    |
 | [Password Philosophy](https://adventofcode.com/2020/day/2) | [Day 2](Day%202) | ⭐⭐    |
 | [Toboggan Trajectory](https://adventofcode.com/2020/day/3) | [Day 3](Day%203) | ⭐⭐    |
-| [Passport Processing](https://adventofcode.com/2020/day/4) | [Day 4](Day%204) | ⭐     |
-| [Binary Boarding](https://adventofcode.com/2020/day/5)     | [Day 5](Day%205) |       |
+| [Passport Processing](https://adventofcode.com/2020/day/4) | [Day 4](Day%204) | ⭐⭐    |
+| [Binary Boarding](https://adventofcode.com/2020/day/5)     | [Day 5](Day%205) | ⭐⭐    |
 
 
