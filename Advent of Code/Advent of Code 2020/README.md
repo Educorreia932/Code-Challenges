@@ -34,5 +34,4 @@ Solutions for [Advent of Code 2020](https://adventofcode.com/2020).
 | [Toboggan Trajectory](https://adventofcode.com/2020/day/3) | [Day 3](Day%203) | ⭐⭐    |
 | [Passport Processing](https://adventofcode.com/2020/day/4) | [Day 4](Day%204) | ⭐⭐    |
 | [Binary Boarding](https://adventofcode.com/2020/day/5)     | [Day 5](Day%205) | ⭐⭐    |
-
-
+| [Custom Customs](https://adventofcode.com/2020/day/6)      | [Day 6](Day%206) | ⭐⭐    |
