@@ -1,5 +1,4 @@
 import re
-from rich import print
 
 f = open("Day 7 - Input.txt", "r")
 
