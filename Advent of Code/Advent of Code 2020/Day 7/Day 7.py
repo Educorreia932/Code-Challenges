@@ -54,5 +54,5 @@ def part_2():
     bags = parse_input()
     print(count_bags(bags, "shiny gold"))
 
-part_1() # 139
-part_2() # 58175
+part_1()
+part_2()
