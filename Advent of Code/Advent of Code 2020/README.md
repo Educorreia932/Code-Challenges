@@ -27,16 +27,16 @@ Solutions for [Advent of Code 2020](https://adventofcode.com/2020).
      '`    
 ```
 
-| Challenge                                                  | Solutions        | Stars |
-|------------------------------------------------------------|------------------|-------|
-| [Report Repair](https://adventofcode.com/2020/day/1)       | [Day 1](Day%201) | ⭐⭐    |
-| [Password Philosophy](https://adventofcode.com/2020/day/2) | [Day 2](Day%202) | ⭐⭐    |
-| [Toboggan Trajectory](https://adventofcode.com/2020/day/3) | [Day 3](Day%203) | ⭐⭐    |
-| [Passport Processing](https://adventofcode.com/2020/day/4) | [Day 4](Day%204) | ⭐⭐    |
-| [Binary Boarding](https://adventofcode.com/2020/day/5)     | [Day 5](Day%205) | ⭐⭐    |
-| [Custom Customs](https://adventofcode.com/2020/day/6)      | [Day 6](Day%206) | ⭐⭐    |
-| [Handy Haversacks](https://adventofcode.com/2020/day/7)    | [Day 7](Day%207) | ⭐⭐    |
-| [Handheld Halting](https://adventofcode.com/2020/day/8)    | [Day 8](Day%208) | ⭐⭐    |
-| [Encoding Error](https://adventofcode.com/2020/day/9)      | [Day 9](Day%209) | ⭐⭐    |
-| [Adapter Array](https://adventofcode.com/2020/day/9)      | [Day 10](Day%2010) |      |
+| Challenge                                                  | Solutions          | Stars |
+|------------------------------------------------------------|--------------------|-------|
+| [Report Repair](https://adventofcode.com/2020/day/1)       | [Day 1](Day%201)   | ⭐⭐    |
+| [Password Philosophy](https://adventofcode.com/2020/day/2) | [Day 2](Day%202)   | ⭐⭐    |
+| [Toboggan Trajectory](https://adventofcode.com/2020/day/3) | [Day 3](Day%203)   | ⭐⭐    |
+| [Passport Processing](https://adventofcode.com/2020/day/4) | [Day 4](Day%204)   | ⭐⭐    |
+| [Binary Boarding](https://adventofcode.com/2020/day/5)     | [Day 5](Day%205)   | ⭐⭐    |
+| [Custom Customs](https://adventofcode.com/2020/day/6)      | [Day 6](Day%206)   | ⭐⭐    |
+| [Handy Haversacks](https://adventofcode.com/2020/day/7)    | [Day 7](Day%207)   | ⭐⭐    |
+| [Handheld Halting](https://adventofcode.com/2020/day/8)    | [Day 8](Day%208)   | ⭐⭐    |
+| [Encoding Error](https://adventofcode.com/2020/day/9)      | [Day 9](Day%209)   | ⭐⭐    |
+| [Adapter Array](https://adventofcode.com/2020/day/10)      | [Day 10](Day%2010) | ⭐⭐    |
 
