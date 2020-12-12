@@ -7,7 +7,6 @@ def part_1(adapters):
 
     return differences.count(1) * differences.count(3)
 
-
 def part_2(adapters):
     i = 0
     size = adapters[-1] + 1
