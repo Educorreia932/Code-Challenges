@@ -1,4 +1,3 @@
-from rich import print
 import numpy as np
 
 def read_file():
@@ -6,52 +5,68 @@ def read_file():
         return [(line[0], int(line[1:])) for line in f.read().split("\n")]
 
 directions = {
-    "N": [-1, 0],
-    "E": [0, 1],
-    "S": [1, 0],
-    "W": [0, -1],
+    "N": [0, 1],
+    "E": [1, 0],
+    "S": [0, -1],
+    "W": [-1, 0],
 }
 
-def move(position, direction, displacement):
-    displacement = np.array(directions[direction]) * displacement
+manhattan_distance = lambda position: abs(position[0]) + abs(position[1])
 
-    return np.add(position, displacement).tolist()
+move = lambda position, displacement: np.add(position, displacement).tolist()
 
-def rotate(direction, rotation, angle):
-    directions_list = list(directions.keys())
-    turns = angle // 90
-    i = directions_list.index(direction) + rotation * turns
+def rotate(position, rotation, angle):
+    turns = (angle // 90) % 4
 
-    return directions_list[i % 4]
+    for _ in range(turns):
+        if rotation == "L":
+            position[1] = -position[1]
 
-def run(position, direction, instruction):
+        elif rotation == "R":
+            position[0] = -position[0]
+
+        position[0], position[1] = position[1], position[0]
+
+    return position
+
+def run(boat, waypoint, instruction, mode):
     if instruction[0] == "F":
-        position = move(position, direction, instruction[1])
+        displacement = np.array(waypoint) * instruction[1]
+        boat = move(boat, displacement)
 
-    elif instruction[0] == "L":
-        direction = rotate(direction, -1, instruction[1])
-
-    elif instruction[0] == "R":
-        direction = rotate(direction, 1, instruction[1])
+    elif instruction[0] in ("L", "R"):
+        waypoint = rotate(waypoint, instruction[0], instruction[1])
 
     else:
-        position = move(position, instruction[0], instruction[1])
+        displacement = np.array(directions[instruction[0]]) * instruction[1]
 
-    return position, direction
+        if mode == 1:
+            boat = move(boat, displacement)
+
+        elif mode == 2:
+            waypoint = move(waypoint, displacement)
+
+    return boat, waypoint
 
 def part_1(instructions):
-    position = [0, 0]
-    direction = "E"
+    boat = [0, 0]
+    waypoint = [1, 0]
 
     for instruction in instructions:
-        position, direction = run(position, direction, instruction)
-
-    return sum(map(abs, position))
+        boat, waypoint = run(boat, waypoint, instruction, 1)
+    
+    return manhattan_distance(boat)
 
 def part_2(instructions):
-    pass
+    boat = [0, 0]
+    waypoint = [10, 1]
+
+    for instruction in instructions:
+        boat, waypoint = run(boat, waypoint, instruction, 2)
+
+    return manhattan_distance(boat)
 
 instructions = read_file()
 
-# print(f"Part 1: {part_1(instructions)}")
+print(f"Part 1: {part_1(instructions)}")
 print(f"Part 2: {part_2(instructions)}")

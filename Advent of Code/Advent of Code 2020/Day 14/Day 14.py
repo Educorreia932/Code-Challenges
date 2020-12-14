@@ -1,6 +1,3 @@
-from rich import print
-import itertools
-
 set_bit = lambda num, index: num | (1 << index)
 clear_bit = lambda num, index: num & ~(1 << index)
 
