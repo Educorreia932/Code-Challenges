@@ -42,3 +42,4 @@ Solutions for [Advent of Code 2020](https://adventofcode.com/2020).
 | [Seating System](https://adventofcode.com/2020/day/11)     | [Day 11](Day%2011) | ⭐     |
 | [Rain Risk](https://adventofcode.com/2020/day/12)          | [Day 12](Day%2012) | ⭐     |
 | [Shuttle Search](https://adventofcode.com/2020/day/13)     | [Day 13](Day%2013) | ⭐⭐    |
+| [Docking Data](https://adventofcode.com/2020/day/14)       | [Day 14](Day%2014) | ⭐     |
