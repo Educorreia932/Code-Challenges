@@ -45,6 +45,7 @@ Solutions for [Advent of Code 2020](https://adventofcode.com/2020).
 | [Docking Data](https://adventofcode.com/2020/day/14)            | [Day 14](Day%2014) | ⭐⭐    |
 | [Rambunctious Recitation](https://adventofcode.com/2020/day/15) | [Day 15](Day%2015) | ⭐⭐    |
 | [Ticket Translation](https://adventofcode.com/2020/day/16)      | [Day 16](Day%2016) | ⭐     |
-| [Conway Cubes](https://adventofcode.com/2020/day/17)            | [Day 17](Day%2017) |       |
+| [Conway Cubes](https://adventofcode.com/2020/day/17)            | [Day 17](Day%2017) | ⭐⭐    |
 | [Operation Order](https://adventofcode.com/2020/day/18)         | [Day 18](Day%2018) | ⭐⭐    |
-| [Monster Messages ](https://adventofcode.com/2020/day/19)       | [Day 19](Day%2019) |       |
+| [Monster Messages](https://adventofcode.com/2020/day/19)        | [Day 19](Day%2019) |       |
+| [Jurassic Jigsaw](https://adventofcode.com/2020/day/20)         | [Day 20](Day%2020) |       |
