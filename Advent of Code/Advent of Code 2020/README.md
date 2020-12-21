@@ -49,3 +49,4 @@ Solutions for [Advent of Code 2020](https://adventofcode.com/2020).
 | [Operation Order](https://adventofcode.com/2020/day/18)         | [Day 18](Day%2018) | ⭐⭐    |
 | [Monster Messages](https://adventofcode.com/2020/day/19)        | [Day 19](Day%2019) |       |
 | [Jurassic Jigsaw](https://adventofcode.com/2020/day/20)         | [Day 20](Day%2020) |       |
+| [Allergen Assessment](https://adventofcode.com/2020/day/21)     | [Day 21](Day%2021) |       |

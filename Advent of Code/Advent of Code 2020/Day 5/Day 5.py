@@ -22,5 +22,5 @@ def part_2():
         if seat not in seats:
             print(seat)
 
-part_1() # 959
-part_2() # 527
+part_1()
+part_2()
