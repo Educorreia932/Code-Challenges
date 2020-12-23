@@ -48,5 +48,8 @@ Solutions for [Advent of Code 2020](https://adventofcode.com/2020).
 | [Conway Cubes](https://adventofcode.com/2020/day/17)            | [Day 17](Day%2017) | ⭐⭐    |
 | [Operation Order](https://adventofcode.com/2020/day/18)         | [Day 18](Day%2018) | ⭐⭐    |
 | [Monster Messages](https://adventofcode.com/2020/day/19)        | [Day 19](Day%2019) |       |
-| [Jurassic Jigsaw](https://adventofcode.com/2020/day/20)         | [Day 20](Day%2020) |       |
+| [Jurassic Jigsaw](https://adventofcode.com/2020/day/20)         | [Day 20](Day%2020) | ⭐     |
 | [Allergen Assessment](https://adventofcode.com/2020/day/21)     | [Day 21](Day%2021) |       |
+| [Crab Combat](https://adventofcode.com/2020/day/21)             | [Day 22](Day%2022) |       |
+| [Crab Cups](https://adventofcode.com/2020/day/21)               | [Day 23](Day%2023) |       |
+
