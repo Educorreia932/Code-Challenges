@@ -22,7 +22,5 @@
 
 ## Code Wars
 
-**Rank:** 7 kyu  
-**Honor:** 67  
-**Total Completed Kata:** 8  
+![](https://www.codewars.com/users/Educorreia932/badges/large)
 
