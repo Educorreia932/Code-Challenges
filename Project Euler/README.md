@@ -14,3 +14,5 @@
 | [Largest product in a Rows](https://projecteuler.net/problem=11)  | [Problem 11](11.pl) | Prolog   |
 | [Large sum](https://projecteuler.net/problem=13)                  | [Problem 13](13.py) | Python   |
 | [Longest Collatz sequence](https://projecteuler.net/problem=14)   | [Problem 14](14.py) | Python   |
+| [Lattice paths](https://projecteuler.net/problem=15)   | [Problem 15](15.py) | Python   |
+
