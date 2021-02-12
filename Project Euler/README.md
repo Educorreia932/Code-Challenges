@@ -14,5 +14,8 @@
 | [Largest product in a Rows](https://projecteuler.net/problem=11)  | [Problem 11](11.pl) | Prolog   |
 | [Large sum](https://projecteuler.net/problem=13)                  | [Problem 13](13.py) | Python   |
 | [Longest Collatz sequence](https://projecteuler.net/problem=14)   | [Problem 14](14.py) | Python   |
-| [Lattice paths](https://projecteuler.net/problem=15)   | [Problem 15](15.py) | Python   |
-
+| [Lattice paths](https://projecteuler.net/problem=15)              | [Problem 15](15.py) | Python   |
+| [Power digit sum](https://projecteuler.net/problem=16)            | [Problem 16](16.py) | Python   |
+| [Number letter counts](https://projecteuler.net/problem=17)       | [Problem 17](17.py) | Python   |
+| [Factorial digit sum](https://projecteuler.net/problem=20)        | [Problem 20](20.py) | Python   |
+| [Pandigital prime](https://projecteuler.net/problem=41)           | [Problem 20](41.py) | Python   |
