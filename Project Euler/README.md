@@ -18,4 +18,5 @@
 | [Power digit sum](https://projecteuler.net/problem=16)            | [Problem 16](16.py) | Python   |
 | [Number letter counts](https://projecteuler.net/problem=17)       | [Problem 17](17.py) | Python   |
 | [Factorial digit sum](https://projecteuler.net/problem=20)        | [Problem 20](20.py) | Python   |
-| [Pandigital prime](https://projecteuler.net/problem=41)           | [Problem 20](41.py) | Python   |
+| [Coin sums](https://projecteuler.net/problem=31)        | [Problem 31](31.py) | Python   |
+| [Pandigital prime](https://projecteuler.net/problem=41)           | [Problem 41](41.py) | Python   |
