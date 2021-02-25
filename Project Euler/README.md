@@ -19,5 +19,5 @@
 | [Number letter counts](https://projecteuler.net/problem=17)       | [Problem 17](17.py) | Python   |
 | [Factorial digit sum](https://projecteuler.net/problem=20)        | [Problem 20](20.py) | Python   |
 | [Coin sums](https://projecteuler.net/problem=31)                  | [Problem 31](31.pl) | Prolog   |
-| [Circular primes](https://projecteuler.net/problem=35)                  | [Problem 31](35.py) | Prolog   |
+| [Circular primes](https://projecteuler.net/problem=35)            | [Problem 35](35.py) | Prolog   |
 | [Pandigital prime](https://projecteuler.net/problem=41)           | [Problem 41](41.py) | Python   |
