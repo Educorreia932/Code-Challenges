@@ -4,4 +4,5 @@
 (in-package #:challenge/solution)
 
 (defun double-integer (n)
-    (* n 2))
+    (* n 2)
+)

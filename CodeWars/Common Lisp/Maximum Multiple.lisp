@@ -4,5 +4,10 @@
 (in-package #:challenge/solution)
 
 (defun max-multiple (divisor bound)
-    ; your code here
+    1
+
+    (loop for i from 0 to bound
+        if (= 0 (mod (- bound i) divisor))
+        do (return (- bound i))
+    )
 )
