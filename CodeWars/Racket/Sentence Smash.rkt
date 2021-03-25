@@ -1,4 +1,5 @@
 #lang racket
+
 (provide smash)
 
 (define (smash words)

@@ -12,5 +12,3 @@
 (define (find-needle lst)
     (format "found the needle at position ~a" (index lst))
 )
-
-(print (find-needle '("hay" "junk" "hay" "hay" "moreJunk" "needle","randomJunk")))

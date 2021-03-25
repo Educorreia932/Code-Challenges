@@ -1,0 +1,5 @@
+ColumnLimit: 0
+IndentWidth: 4
+IndentCaseLabels: true
+PointerAlignment: Left
+SpaceAfterCStyleCast: true
