@@ -1,4 +1,4 @@
-# Distinc powers
+# Distinct powers
 
 terms = set()
 

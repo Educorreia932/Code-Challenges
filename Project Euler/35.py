@@ -28,6 +28,7 @@ def is_circular_prime(n):
 
     return False not in [is_prime(x) for x in digit_rotations(n)]
 
+
 solution = 2
 
 for i in range(2, 1000001):
