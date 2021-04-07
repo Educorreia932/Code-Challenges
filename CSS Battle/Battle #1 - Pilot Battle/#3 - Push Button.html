@@ -1,0 +1,48 @@
+<div id="rectangle"></div>
+<div id="big-circle" class="circle"></div>
+<div id="medium-circle" class="circle">
+    <div id="small-circle" class="circle"></div>
+</div>
+
+
+<style>
+    body {
+        background: #6592CF;
+        margin: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #rectangle {
+        background: #243D83;
+        width: calc(100% / 1.32);
+        height: calc(100% / 2);
+    }
+
+    .circle {
+        border-radius: 50%;
+        position: absolute;
+    }
+
+    #big-circle {
+        background: #6592CF;
+        width: calc(100% / 1.6);
+        height: calc(100% / 1.2);
+    }
+
+    #medium-circle {
+        background: #243D83;
+        width: calc(100% / 2.7);
+        height: calc(100% / 2);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #small-circle {
+        background: #EEB850;
+        width: calc(100% / 3);
+        height: calc(100% / 3);
+    }
+</style>
