@@ -1,1 +1,1 @@
-for A in range(31):print(int(((1+5**0.5)/2)**A/5**0.5+0.5))
+for A in range(31):print(int(((1+5**.5)/2)**A/5**.5+.5))
