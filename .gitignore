@@ -1,6 +1,7 @@
 .vscode/
 .ccls-cache/
+.exercism/
 
-HackerRank/C\+\+/.clang-format
-
+*.clang-format
+*.tc
 
