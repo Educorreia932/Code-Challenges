@@ -24,7 +24,9 @@ def combinations(elements, prefix, n, k):
     return result
 
 class Grid:
-    def __init__(self, grid, dimension):
+    """Class that represents the grid"""
+
+    def __init__(self, grid, dimension: int):
         self.dimension = dimension
         self.grid = numpy.array(grid)
 
@@ -81,7 +83,8 @@ class Grid:
 
         self.grid = next_round
 
-    def display(self):
+    def save(self, filename):
+        """Save the grid's picture"""
         x, y, z = self.grid.nonzero()
 
         fig = plt.figure()
@@ -93,7 +96,7 @@ class Grid:
         ax.set_ylabel('Y axis')
         ax.set_zlabel('Z axis')
 
-        plt.show()
+        plt.savefig(f"{filename}.png")
 
 def part_1(lines):
     grid = [[[int(x)] for x in list(line)] for line in lines]
