@@ -1,3 +1,4 @@
+# Project Euler
 
 | Problem                                                                      | Solution               | Language |
 |------------------------------------------------------------------------------|------------------------|----------|
@@ -30,4 +31,3 @@
 | [Pandigital prime](https://projecteuler.net/problem=41)                      | [Problem 41](41.py)    | Python   |
 | [Coded triangle numbers](https://projecteuler.net/problem=42)                | [Problem 42](42/42.py) | Python   |
 | [Triangular, pentagonal, and hexagonal](https://projecteuler.net/problem=45) | [Problem 45](45.py)    | Python   |
-
