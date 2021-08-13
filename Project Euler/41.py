@@ -27,6 +27,6 @@ for number in pandigital_numbers():
     if is_prime(number):
         pandigital_primes.append(number)
 
-solution = max(pandigital_primes)
+answer = max(pandigital_primes)
 
-print(solution)
+print(answer)

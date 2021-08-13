@@ -23,4 +23,3 @@ for a in range(1, 10000):
 answer = sum(amicable_numbers)
 
 print(answer)
-
