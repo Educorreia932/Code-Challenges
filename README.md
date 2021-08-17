@@ -1,49 +1,53 @@
 # Code Challenges
 
-## [Advent of Code](Advent%20of%20Code)
+Solutions for programming contests and practice exercises from online judges.
 
-[Advent of Code](https://adventofcode.com/) is an annual event featuring Christmas-themed puzzles that are meant to be solved with code
+> 📂 emoji points to the respective code folder.
 
-## [code.golf](code.golf)
+## [Advent of Code](https://adventofcode.com/) [📂](Advent%20of%20Code)
 
-[Code golf](https://code.golf/) is a type of recreational computer programming competition in which participants strive to achieve the shortest possible source code that implements a certain algorithm.
+Annual event featuring Christmas-themed puzzles that are meant to be solved with code.
 
-## [Codewars](CodeWars)
+## [code.golf](https://code.golf/) [📂](code.golf)
 
-[Codewars](https://www.codewars.com/dashboard) is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata.
+Type of recreational computer programming competition in which participants strive to achieve the shortest possible source code that implements a certain algorithm.
 
-## [CSS Battle](CSS%20Battle)
+## [Codewars](https://www.codewars.com/dashboard) [📂](CodeWars)
 
-[CSS Battle](https://cssbattle.dev/) is a game which aim is to replicate an image target with the smallest possible CSS (and slight HTML) code.
+Educational community for computer programming. On the platform, software developers train on programming challenges known as kata.
 
-## [DMOJ](DMOJ)
+## [CSS Battle](https://cssbattle.dev/)  [📂](CSS%20Battle)
 
-[DMOJ](https://dmoj.ca/) is a modern contest platform and archive of programming problems.
+Game in which the goal is to replicate an image target with the smallest possible CSS (and slight HTML) code.
 
-## [Exercism](Exercism)
+## [DMOJ](https://dmoj.ca/) [📂](DMOJ)
 
-[Exercism](https://exercism.io/) is an online, open-source, free coding platform that offers code practice and mentorship on 50 different programming languages.
+Modern contest platform and archive of programming problems.
 
-## [HackerRank](HackerRank)
+## [Exercism](https://exercism.io/) [📂](Exercism)
 
-[HackerRank](https://www.hackerrank.com/) is a website that focuses on competitive programming challenges, where developers compete by trying to program according to provided specifications.
+Online, open-source, free coding platform that offers code practice and mentorship on 50 different programming languages.
 
-## [Hash Code](Hash%20Code)
+## [HackerRank](https://www.hackerrank.com/) [📂](HackerRank)
 
-[Hash Code](https://codingcompetitions.withgoogle.com/hashcode/) is a team programming competition, organized by Google, with a single optimization/approximation problem where it's needed to analyze tests and solve them as well as possible.
+Website that focuses on competitive programming challenges, where developers compete by trying to program according to provided specifications.
 
-## [IEEEXtreme](IEEEXtreme)
+## [Hash Code](https://codingcompetitions.withgoogle.com/hashcode/) [📂](Hash%20Code)
 
-[IEEEXtreme](https://ieeextreme.org/) is a global challenge in which teams of IEEE Student members compete in a 24-hour time span against each other to solve a set of programming problems.
+Team programming competition, organized by Google, with a single optimization/approximation problem where it's needed to analyze tests and solve them as well as possible.
 
-## [LeetCode](LeetCode)
+## [IEEEXtreme](https://ieeextreme.org/) [📂](IEEEXtreme)
 
-[LeetCode](https://leetcode.com/) is a website where people can practice solving coding problems and prepare for technical interviews.
+Global challenge in which teams of IEEE Student members compete in a 24-hour time span against each other to solve a set of programming problems.
 
-## [Project Euler](Project%20Euler)
+## [LeetCode](https://leetcode.com/) [📂](LeetCode)
 
-[Project Euler](https://projecteuler.net/) is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve.
+Website where people can practice solving coding problems and prepare for technical interviews.
 
-## [SINF 2020](SINF%202020)
+## [Project Euler](https://projecteuler.net/) [📂](Project%20Euler)
 
-[SINF 2020](https://www.sinf.pt/competicao-programacao/) was a programming competition hold my [NIAFEUP](https://ni.fe.up.pt/) in behalf of the [SINF](https://www.sinf.pt/) event.
+Series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve.
+
+## [SINF 2020](https://www.sinf.pt/competicao-programacao/) [📂](SINF%202020)
+
+Programming competition hold my [NIAFEUP](https://ni.fe.up.pt/) in behalf of the [SINF](https://www.sinf.pt/) event.

@@ -22,6 +22,7 @@
 | [Factorial digit sum](https://projecteuler.net/problem=20)                   | [Problem 20](20.py) | Python   |
 | [Amicable numbers](https://projecteuler.net/problem=21)                      | [Problem 21](21.py) | Python   |
 | [Names scores](https://projecteuler.net/problem=22)                          | [Problem 22](22/)   | Python   |
+| [Non-abundant sums](https://projecteuler.net/problem=23)                     | [Problem 23](23.py) | C++      |
 | [Lexicographic permutations](https://projecteuler.net/problem=24)            | [Problem 24](24.py) | Python   |
 | [1000-digit Fibonacci number](https://projecteuler.net/problem=25)           | [Problem 25](25.py) | Python   |
 | [Number spiral diagonals](https://projecteuler.net/problem=28)               | [Problem 28](28.py) | Python   |
