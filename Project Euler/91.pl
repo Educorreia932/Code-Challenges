@@ -57,9 +57,9 @@ vector([X0, Y0], [X1, Y1], [Vx, Vy]) :-
     Vx #= X1 - X0,
     Vy #= Y1 - Y0.
 
-solve(Triangles) :-
+solve(Answer) :-
     Coords = [X0, Y0, X1, Y1, X2, Y2],
-    Coords ins 0..1,
+    Coords ins 0..50,
 
     X0 #= 0,
     Y0 #= 0,
@@ -85,6 +85,7 @@ solve(Triangles) :-
     % The dot product of two sides must be zero (90 degree angle)
     D0 #= 0 #\/ D1 #= 0 #\/ D2 #= 0,
 
-    findall(Coords, label(Coords), Triangles). 
-    % Triangles = [[0,1], [0, 0]],
-    % quick_sort(Triangles, Answer). % TODO: This isn't working because it's not a list of pairs [0,0,0,0] != [[0,0],[0,0]]
+    findall(Points, label(Coords), Triangles),
+    maplist(quick_sort, Triangles, OrderedTriangles),
+    sort(OrderedTriangles, UniqueTriangles), % Remove duplicates
+    length(UniqueTriangles, Answer). 
