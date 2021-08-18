@@ -46,7 +46,7 @@ Website where people can practice solving coding problems and prepare for techni
 
 ## [Project Euler](https://projecteuler.net/) [📂](Project%20Euler)
 
-Series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve.
+Series of challenging mathematical/computer programming problems that require more than just mathematical insights to solve.
 
 ## [SINF 2020](https://www.sinf.pt/competicao-programacao/) [📂](SINF%202020)
 

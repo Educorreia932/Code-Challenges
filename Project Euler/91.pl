@@ -5,25 +5,25 @@
 
 pivoting(_, [], [], []).
 
-pivoting([A,B], [[C,D]|T], [[C,D]|L], G):-
+pivoting([A, B], [[C, D]|T], [[C, D]|L], G):-
     D > B,
-    pivoting([A,B],T,L,G).
+    pivoting([A, B],T,L,G).
 
-pivoting([A,B], [[C,D]|T], [[C,D]|L], G):-
+pivoting([A, B], [[C, D]|T], [[C, D]|L], G):-
     D = B,
     C > A,
-    pivoting([A,B], T, L, G).
+    pivoting([A, B], T, L, G).
 
-pivoting([A,B], [[C,D]|T], L, [[C,D]|G]):-
+pivoting([A,B], [[C,D]|T], L, [[C, D]|G]):-
     D < B,
-    pivoting([A,B],T,L,G).
+    pivoting([A, B], T, L, G).
 
-pivoting([A,B], [[C,D]|T], L, [[C,D]|G]):-
+pivoting([A, B], [[C, D]|T], L, [[C, D]|G]):-
     D = B,
     C < A,
-    pivoting([A,B], T, L, G).
+    pivoting([A, B], T, L, G).
 
-pivoting([A,B], [[C,D]|T], L, G):-
+pivoting([A, B], [[C, D]|T], L, G):-
     A = C,
     D = B,
     pivoting([A,B], T, L, G).

@@ -31,4 +31,3 @@ for word in words:
         answer += 1
 
 print(answer)
-
