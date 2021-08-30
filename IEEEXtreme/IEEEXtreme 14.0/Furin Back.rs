@@ -8,6 +8,7 @@ fn main() {
 
     // let mut vm = BFVM::new(code);
     // vm.run();
+    
     for _ in 0..n_lines {
         BFVM::new(code).run();
         println!();

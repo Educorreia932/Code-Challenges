@@ -1,6 +1,7 @@
 import numpy as np
 
 T = int(input()) # Number of test cases
+
 matrix = np.array([
     0, 1, 6,
     2, 2, 12,
