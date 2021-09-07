@@ -19,9 +19,3 @@ void minimumBribes(vector<int> q) {
     
     cout << bribes << endl;
 }
-
-int main() {
-    minimumBribes(vector<int>{1, 2, 5, 3, 7, 8, 6, 4});
-    
-    return 0;
-}
