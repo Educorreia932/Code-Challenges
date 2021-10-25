@@ -1,0 +1,1 @@
+print(" mKSpCDsveFhrlo".find((4*input())[15]))
