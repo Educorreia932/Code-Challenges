@@ -63,6 +63,4 @@ begin
 
     Put_Line("Part 1: " & Part_1'Image);
     Put_Line("Part 2: " & Part_2'Image);
-end; & Part_1'Image);
-    Put_Line("Part 2: " & Part_2'Image);
 end;
