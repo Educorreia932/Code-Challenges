@@ -42,7 +42,6 @@ class Board {
                         completeRow = false;
 
                 if (completeRow) {
-
                     return marked.byPair
                         .filter!(p => !p[1])
                         .map!(pair => pair[0])
@@ -54,13 +53,53 @@ class Board {
         }
 }
 
-int part_one() {
-    return -1;
+int bingo(bool letSquidWin, int[] drawnNumbers, Board[] boards) {
+    ulong[] winners;
+    int lastWinnerScore;
+
+    loop: foreach (drawnNumber ; drawnNumbers) {
+        foreach (i, board ; boards.enumerate()) {
+            board.markNumber(drawnNumber);
+
+            int columnScore = board.checkColumns(drawnNumber);
+            int rowScore = board.checkRows(drawnNumber);
+
+            if (columnScore != 0) {
+                if (!winners.canFind(i)) {
+                    winners ~= i;
+                    lastWinnerScore = columnScore;
+                }
+
+                if (!letSquidWin)
+                    return columnScore;
+            }
+
+            if (rowScore != 0) {
+                if (!winners.canFind(i)) {
+                    winners ~= i;
+                    lastWinnerScore = rowScore;
+                }
+
+                if (!letSquidWin)
+                    return rowScore;
+            }
+        }
+    }
+
+    return lastWinnerScore;
+}
+
+int part_one(int[] drawnNumbers, Board[] boards) {
+    return bingo(false, drawnNumbers, boards);
+}
+
+int part_two(int[] drawnNumbers, Board[] boards) {
+    return bingo(true, drawnNumbers, boards);
 }
 
 void main() {
     auto lines = readText("input.txt").splitLines();
-    auto drawnNumbers = lines[0].split(",").map!(to!int);
+    int[] drawnNumbers = lines[0].split(",").map!(to!int).array;
     auto boardsLines = lines.split("").remove(0);
 
     Board[] boards = boardsLines.map!(
@@ -69,24 +108,6 @@ void main() {
         )
     ).array;
 
-    loop: foreach (drawnNumber ; drawnNumbers) {
-        foreach (board ; boards) {
-            board.markNumber(drawnNumber);
-
-            int columnCheck = board.checkColumns(drawnNumber);
-            int rowCheck = board.checkRows(drawnNumber);
-
-            if (columnCheck != 0) {
-                writeln(columnCheck);
-
-                break loop;
-            }
-
-            if (rowCheck != 0) {
-                writeln(rowCheck);
-
-                break loop;
-            }
-        }
-    }
+    writeln("Part 1: ", part_one(drawnNumbers, boards));
+    writeln("Part 2: ", part_two(drawnNumbers, boards));
 }
