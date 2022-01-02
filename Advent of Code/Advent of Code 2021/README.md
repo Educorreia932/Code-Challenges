@@ -13,7 +13,7 @@ Solutions for [Advent of Code 2021](https://adventofcode.com/2021). 🎅
 | [The Treachery of Whales](https://adventofcode.com/2021/day/7)  | [Day 7](Day%207)   | ⭐⭐    | **G**o          |
 | [Seven Segment Search](https://adventofcode.com/2021/day/8)     | [Day 8](Day%208)   | ⭐     | **H**askell     |
 | [Smoke Basin](https://adventofcode.com/2021/day/9)              | [Day 9](Day%209)   |       | **I**o          |
-| [Syntax Scoring](https://adventofcode.com/2021/day/10)          | [Day 10](Day%2010) | ⭐     | **J**avaScript  |
+| [Syntax Scoring](https://adventofcode.com/2021/day/10)          | [Day 10](Day%2010) | ⭐⭐    | **J**avaScript  |
 | [Dumbo Octupus](https://adventofcode.com/2021/day/11)           | [Day 11](Day%2011) |       | **K**otlin      |
 | [Passage Pathing](https://adventofcode.com/2021/day/12)         | [Day 12](Day%2012) |       | **L**ua         |
 | [Transparent Origami](https://adventofcode.com/2021/day/13)     | [Day 13](Day%2013) |       | **M**athematica |
@@ -24,9 +24,9 @@ Solutions for [Advent of Code 2021](https://adventofcode.com/2021). 🎅
 | [Snailfish](https://adventofcode.com/2021/day/18)               | [Day 18](Day%2018) |       | **R**           |
 | [Beacon Scanner](https://adventofcode.com/2021/day/19)          | [Day 19](Day%2019) |       | **S**cala       |
 | [Trench Map](https://adventofcode.com/2021/day/20)              | [Day 20](Day%2020) |       | **T**cl         |
-| [Smoke Basin](https://adventofcode.com/2021/day/21)             | [Day 21](Day%2021) |       | U               |
-| [Smoke Basin](https://adventofcode.com/2021/day/22)             | [Day 22](Day%2022) |       | V               |
-| [Smoke Basin](https://adventofcode.com/2021/day/23)             | [Day 23](Day%2023) |       | W               |
-| [Smoke Basin](https://adventofcode.com/2021/day/24)             | [Day 24](Day%2024) |       | X               |
-| [Smoke Basin](https://adventofcode.com/2021/day/25)             | [Day 25](Day%2025) |       | Y               |
+| [Dirac Dice](https://adventofcode.com/2021/day/21)              | [Day 21](Day%2021) |       | U               |
+| [Reactor Reboot](https://adventofcode.com/2021/day/22)          | [Day 22](Day%2022) |       | V               |
+| [Amphipod](https://adventofcode.com/2021/day/23)                | [Day 23](Day%2023) |       | W               |
+| [Arithmetic Logic Unit](https://adventofcode.com/2021/day/24)   | [Day 24](Day%2024) |       | X               |
+| [Sea Cucumber](https://adventofcode.com/2021/day/25)            | [Day 25](Day%2025) |       | Y               |
 
