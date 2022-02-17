@@ -1,5 +1,5 @@
-import Data.List
-import Data.Maybe
+import Data.List ( elemIndex )
+import Data.Maybe ( fromMaybe )
 
 coprimeToTen :: Integer -> Integer
 coprimeToTen n | even n = coprimeToTen $ n `div` 2

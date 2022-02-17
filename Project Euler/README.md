@@ -32,6 +32,7 @@ These are my solutions to some of those problems.
 | [Non-abundant sums](https://projecteuler.net/problem=23)                        | [Problem 23](23.py)  | C++      |
 | [Lexicographic permutations](https://projecteuler.net/problem=24)               | [Problem 24](24.py)  | Python   |
 | [1000-digit Fibonacci number](https://projecteuler.net/problem=25)              | [Problem 25](25.py)  | Python   |
+| [Reciprocal cycles](https://projecteuler.net/problem=26)                        | [Problem 26](26.hs)  | Haskell  |
 | [Number spiral diagonals](https://projecteuler.net/problem=28)                  | [Problem 28](28.py)  | Python   |
 | [Distinct powers](https://projecteuler.net/problem=29)                          | [Problem 29](29.py)  | Python   |
 | [Digit fifth powers](https://projecteuler.net/problem=30)                       | [Problem 30](30.cpp) | C++      |

@@ -1,5 +1,3 @@
-// This was a problem that I solved as part of applying to a summer internship at Semasio 
-
 using System;
 using System.Collections.Generic;
 					
