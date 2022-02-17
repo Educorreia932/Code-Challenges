@@ -38,6 +38,7 @@ These are my solutions to some of those problems.
 | [Distinct powers](https://projecteuler.net/problem=29)                          | [Problem 29](29.py)  | Python   |
 | [Digit fifth powers](https://projecteuler.net/problem=30)                       | [Problem 30](30.cpp) | C++      |
 | [Coin sums](https://projecteuler.net/problem=31)                                | [Problem 31](31.pl)  | Prolog   |
+| [Pandigital products](https://projecteuler.net/problem=32)                      | [Problem 32](32.pl)  | Haskell  |
 | [Digit factorials](https://projecteuler.net/problem=34)                         | [Problem 34](34.cpp) | C++      |
 | [Circular primes](https://projecteuler.net/problem=35)                          | [Problem 35](35.py)  | Python   |
 | [Double-base palindromes](https://projecteuler.net/problem=36)                  | [Problem 36](36.py)  | Python   |
