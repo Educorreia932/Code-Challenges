@@ -10,6 +10,7 @@ concatNumbers = read . concatMap show
 isPandigital :: Int -> Bool
 isPandigital n = sort (digits n) == [1..9] && length (show n) == 9
 
+pandigitalProducts :: [Int] -> [Int] -> [Int]
 pandigitalProducts a b = [x * y | x <- a, y <- b, isPandigital $ concatNumbers [x, y, x * y]]
 
 main :: IO()

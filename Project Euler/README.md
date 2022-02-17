@@ -38,12 +38,15 @@ These are my solutions to some of those problems.
 | [Distinct powers](https://projecteuler.net/problem=29)                          | [Problem 29](29.py)  | Python   |
 | [Digit fifth powers](https://projecteuler.net/problem=30)                       | [Problem 30](30.cpp) | C++      |
 | [Coin sums](https://projecteuler.net/problem=31)                                | [Problem 31](31.pl)  | Prolog   |
-| [Pandigital products](https://projecteuler.net/problem=32)                      | [Problem 32](32.pl)  | Haskell  |
+| [Pandigital products](https://projecteuler.net/problem=32)                      | [Problem 32](32.hs)  | Haskell  |
+| [Digit cancelling fractions](https://projecteuler.net/problem=33)               | [Problem 33](33.hs)  | Haskell  |
 | [Digit factorials](https://projecteuler.net/problem=34)                         | [Problem 34](34.cpp) | C++      |
 | [Circular primes](https://projecteuler.net/problem=35)                          | [Problem 35](35.py)  | Python   |
 | [Double-base palindromes](https://projecteuler.net/problem=36)                  | [Problem 36](36.py)  | Python   |
 | [Truncatable primes](https://projecteuler.net/problem=37)                       | [Problem 37](37.py)  | Python   |
-| [Pandigital prime](https://projecteuler.net/problem=41)                         | [Problem 41](41.py)  | Python   |
+| [Pandigital multiples](https://projecteuler.net/problem=38)                     | [Problem 37](38.hs)  | Haskell  |
+| [Truncatable primes](https://projecteuler.net/problem=39)                       | [Problem 37](39.hs)  | Haskell  |
+| [Integer right triangles](https://projecteuler.net/problem=41)                  | [Problem 41](41.py)  | Python   |
 | [Coded triangle numbers](https://projecteuler.net/problem=42)                   | [Problem 42](42/)    | Python   |
 | [Triangular, pentagonal, and hexagonal](https://projecteuler.net/problem=45)    | [Problem 45](45.py)  | Python   |
 | [Permuted multiples](https://projecteuler.net/problem=52)                       | [Problem 52](52.py)  | Python   |
