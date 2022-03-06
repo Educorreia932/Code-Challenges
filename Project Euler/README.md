@@ -46,6 +46,7 @@ These are my solutions to some of those problems.
 | [Truncatable primes](https://projecteuler.net/problem=37)                       | [Problem 37](37.py)  | Python   |
 | [Pandigital multiples](https://projecteuler.net/problem=38)                     | [Problem 37](38.hs)  | Haskell  |
 | [Truncatable primes](https://projecteuler.net/problem=39)                       | [Problem 37](39.hs)  | Haskell  |
+| [Champernowne's constant](https://projecteuler.net/problem=40)                  | [Problem 40](40.py)  | Python   |
 | [Integer right triangles](https://projecteuler.net/problem=41)                  | [Problem 41](41.py)  | Python   |
 | [Coded triangle numbers](https://projecteuler.net/problem=42)                   | [Problem 42](42/)    | Python   |
 | [Triangular, pentagonal, and hexagonal](https://projecteuler.net/problem=45)    | [Problem 45](45.py)  | Python   |
