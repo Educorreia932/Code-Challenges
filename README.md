@@ -46,6 +46,10 @@ Website where people can practice solving coding problems and prepare for techni
 
 Series of challenging mathematical/computer programming problems that require more than just mathematical insights to solve.
 
+## Rosalind [🔗](https://rosalind.info/)[📂](Rosalind)
+
+Platform for learning bioinformatics and programming through problem solving.
+
 ## SINF 2020 [🔗](https://www.sinf.pt/competicao-programacao/)[📂](SINF%202020)
 
 Programming competition hold my [NIAFEUP](https://ni.fe.up.pt/) in behalf of the [SINF](https://www.sinf.pt/) event.
