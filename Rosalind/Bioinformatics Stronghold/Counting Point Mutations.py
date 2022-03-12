@@ -6,9 +6,4 @@ def hamming_distance(s, t):
             result += 1
 
     return result
-
-f = open("input/rosalind_hamm.txt", "r")
-
-s, t = f.readlines()
-
-print(hamming_distance(s, t))
+    
