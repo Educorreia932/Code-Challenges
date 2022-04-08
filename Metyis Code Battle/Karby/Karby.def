@@ -1,0 +1,13 @@
+;
+;   file                 : Karby.def
+;   created              : Wed Apr 6 03:53:44 PM WEST 2022
+;   copyright            : (C) 2002 TriceraTOP
+;
+
+LIBRARY	Karby
+
+SECTIONS .data READ WRITE
+
+EXPORTS
+	Karby
+
