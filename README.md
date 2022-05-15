@@ -18,6 +18,10 @@ Educational community for computer programming. On the platform, software develo
 
 Game in which the goal is to replicate an image target with the smallest possible CSS (and slight HTML) code.
 
+## DatAttack [🔗](https://www.instagram.com/datattack.up/)[📂](DatAttack)
+
+Data science hackathon focused on Computer Vision.
+
 ## DMOJ [🔗](https://dmoj.ca/)[📂](DMOJ)
 
 Modern contest platform and archive of programming problems.
