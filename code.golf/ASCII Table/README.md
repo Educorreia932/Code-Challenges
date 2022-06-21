@@ -2,11 +2,11 @@
 
 ## Python
 
-120 bytes, 120 chars
+114 bytes, 114 chars
 
 ```py
 C=print
-B=range
-C('  ',*B(2,8),'\n','-'*13)
-for A in B(16):C('%X:'%A,*['DEL'if A+C==22 else chr(C*16+A)for C in B(2,8)])
+B=range(2,8)
+C('  ',*B,'\n','-'*13)
+for A in range(16):C('%X:'%A,*[('DEL',chr(C*16+A))[A+C<22]for C in B])
 ```
