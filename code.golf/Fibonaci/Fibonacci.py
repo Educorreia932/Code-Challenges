@@ -1,3 +1,5 @@
-for i in range(31):
-    print(int(1.61803398 ** i / 5 ** 0.5 + 0.5))
-    
+def f(i, j):
+    print(i)
+    i < 2**19 and f(j, i + j)
+        
+f(0, 1)

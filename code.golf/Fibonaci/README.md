@@ -2,6 +2,8 @@
 
 ## Haskell
 
+40 bytes, 40 chars
+
 ```hs
 f=0:scanl(+)1f
 main=mapM print$take 31 f
@@ -9,8 +11,9 @@ main=mapM print$take 31 f
 
 ## Python
 
-53 bytes, 53 chars
+47 bytes, 47 chars
 
 ```py
-for A in range(31):print(int(1.61803398**A/5**.5+.5))
+def A(i,j):print(i);i<832040 and A(j,i+j)
+A(0,1)
 ```
