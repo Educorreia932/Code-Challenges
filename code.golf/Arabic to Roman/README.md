@@ -2,7 +2,7 @@
 
 ## Python
 
-192 bytes, 194 chars
+192 bytes, 192 chars
 
 ```py
 import sys
