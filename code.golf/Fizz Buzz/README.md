@@ -2,8 +2,8 @@
 
 ## Python
 
-34 bytes, 34 chars
+62 bytes, 62 chars
 
 ```py
-for A in range(1,101):print(('Fizz','')[A%3>0]+('Buzz','')[A%5>0]or A)
+for A in range(1,101):print('Fizz'*(A%3<1)+'Buzz'*(A%5<1)or A)
 ```
