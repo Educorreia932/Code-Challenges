@@ -26,7 +26,7 @@ Solutions for [Advent of Code 2021](https://adventofcode.com/2021). 🎅
 | [Trench Map](https://adventofcode.com/2021/day/20)              | [Day 20](Day%2020) |       | **T**cl         |
 | [Dirac Dice](https://adventofcode.com/2021/day/21)              | [Day 21](Day%2021) |       | U               |
 | [Reactor Reboot](https://adventofcode.com/2021/day/22)          | [Day 22](Day%2022) |       | V               |
-| [Amphipod](https://adventofcode.com/2021/day/23)                | [Day 23](Day%2023) |       | W               |
+| [Amphipod](https://adventofcode.com/2021/day/23)                | [Day 23](Day%2023) |       | **W**olfram Language               |
 | [Arithmetic Logic Unit](https://adventofcode.com/2021/day/24)   | [Day 24](Day%2024) |       | X               |
 | [Sea Cucumber](https://adventofcode.com/2021/day/25)            | [Day 25](Day%2025) |       | Y               |
 
