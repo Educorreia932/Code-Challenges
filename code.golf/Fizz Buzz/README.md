@@ -1,9 +1,11 @@
-## Fizz Buzz
+# Fizz Buzz
 
 ## Python
 
-62 bytes, 62 chars
+### Fewest bytes
+
+59 bytes, 59 chars
 
 ```py
-for A in range(1,101):print('Fizz'*(A%3<1)+'Buzz'*(A%5<1)or A)
+for A in range(100):print(A%3//2*'Fizz'+A%5//4*'Buzz'or-~A)
 ```
