@@ -1,11 +1,17 @@
-# Advent of Code 2022
+# Advent of ~~Code~~ Time 2022 🎄
 
-Solutions for [Advent of Code 2022](https://adventofcode.com/2022). 🎅
+<p align="center">
+  <img src="santa.png">
+</p>
+
+Christmas, the perfect occassion to take a trip to the past and remember all the good things that happened so far. 
+
+So, what a better way to celebrate than to commemorate the advent of several programming starting on 1998 and ending on the year of this edition, 2022.
 
 | Challenge                                                  | Solutions         | Stars | Language           | Year |
 |------------------------------------------------------------|-------------------|-------|--------------------|------|
 | [Calorie Counting](https://adventofcode.com/2022/day/1)    | [Day 1](Day%201/) | ⭐⭐    | PureBasic          | 1998 |
-| [Rock Paper Scissors](https://adventofcode.com/2022/day/2) | [Day 2](Day%202/) | ⭐     | C99                | 1999 |
+| [Rock Paper Scissors](https://adventofcode.com/2022/day/2) | [Day 2](Day%202/) | ⭐⭐    | C99                | 1999 |
 |                                                            | Day 3             |       | C#                 | 2000 |
 |                                                            | Day 4             |       | Processing         | 2001 |
 |                                                            | Day 5             |       | Io                 | 2002 |

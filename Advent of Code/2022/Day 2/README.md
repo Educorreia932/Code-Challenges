@@ -2,8 +2,6 @@
 
 The year is 1999, Matrix has just been released, and so has [C99](https://wikipedia.org/wiki/C99), one of the revisions of the **C** programming language, and it's going to be language used for this day.
 
-Buckle up, because this is going to get overly complicated very soon.
-
 ![](https://media.tenor.com/MNsyvrBKTHIAAAAC/matric-matrix.gif)
 
 ## Solution
