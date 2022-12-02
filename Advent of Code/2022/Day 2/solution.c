@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define sign(x) (x < 0 ? -1 : 1)
-
 char rounds[10000];
 int count = 0;
 
@@ -16,6 +14,12 @@ void read_input() {
     }
 }
 
+int mod(int a, int b) {
+    int r = a % b;
+
+    return r < 0 ? r + b : r;
+}
+
 int part_one() {
     int total_score = 0;
 
@@ -23,15 +27,16 @@ int part_one() {
         int x = (rounds[i] - 'A'),
             y = (rounds[i + 1] - 'X'),
             delta = y - x,
-            result = -3 * ((delta + sign(delta)) / 3) + delta,
-            result_score = 3 * (result + 1),
-            play_score = y + 1;
+            result = mod((delta + 1), 3) - 1,
+            shape_score = 3 * (result + 1),
+            outcome_score = y + 1;
 
-        total_score += result_score + play_score;
+        total_score += shape_score + outcome_score;
     }
 
     return total_score;
 }
+
 
 int main() {
     read_input();

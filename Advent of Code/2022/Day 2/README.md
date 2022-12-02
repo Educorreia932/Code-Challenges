@@ -61,6 +61,8 @@ Now, we have to calculate the score for each round, $R$. The score is composed o
 
 ### Shape score
 
+The shape score can take one of three values:
+
 $$
 S = 
 \begin{cases}
@@ -97,38 +99,12 @@ $-2$ should not be of the possible values of $S'$. Instead, the intended correct
 
 This is because the value $0$ of $A$ should actually be $3$ to comply with the scheme of the chart, *i. e* every winning shape's value, $W$ is the losing shape's value, $L$, plus one $W = L + 1$.
 
-However, due to the cyclic nature of the game, $3$ becomes $0$, as every value is in modulus $3$: $3 \equiv 0 \mod 3$.
+However, due to the cyclic nature of the game, $3$ becomes $0$, as every value is in modulus 3, $3 \equiv 0 \mod 3$.
 
-For **Scissors (Z)** *vs* **Rock (A)** we would have $2$ instead.
-
-To get around this, we need to make sure $S' \in \{-1, 0, 1\}$.
-
-A simple solution would be to get the $S' \mod 3$, however for $\delta = -1$:
+To get around this, we need to make sure $S' \in \{-1, 0, 1\}$, so:
 
 $$
-\begin{aligned}
-    S' &= -1 \mod 3 \\
-       &= 2 \\ 
-       &\neq -1
-\end{aligned}
-$$
-
-So, even though this solution works for this case, I wanted a more general approach that would assure consistency without any specific conditions.
-
-That solution is offsetting the values until they meet the interval $[-1, 1]$.
-
-```
-...
--2 -> 1
--1 -> -1
-0 -> 0
-1 -> 1
-2 -> -1
-...
-```
-
-$$
-S' = -3 \Bigl\lfloor\dfrac{\delta \pm 1}{3}\Bigr\rfloor + \delta
+S' = (delta + 1) \bmod 3 - 1,
 $$
 
 Finally, to map $S'$ to $S$:
@@ -139,8 +115,10 @@ $$
 
 ### Outcome score
 
+The outcome score as well can take one of three values, depending on our play, $y$:
+
 $$
-S = 
+O = 
 \begin{cases}
     1, \text{Rock} \\
     2, \text{Paper} \\
@@ -148,10 +126,12 @@ S =
 \end{cases}
 $$
 
-$O = y + 1$
+So, we just add one to our play value:
+
+$$O = y + 1$$
 
 ### Round score
 
-After obtaining both scores, we get:
+After calculating both scores, we obtain:
 
 $$\therefore R = S + O$$
