@@ -15,7 +15,7 @@ So, what a better way to celebrate than to commemorate the advent of several pro
 | [Rucksack Reorganization ](https://adventofcode.com/2022/day/3) | [Day 3](Day%203/) | ⭐⭐    | C#                 | 2000 |
 | [Camp Cleanup](https://adventofcode.com/2022/day/4)             | [Day 4](Day%204/) | ⭐⭐    | Processing         | 2001 |
 | [Supply Stacks](https://adventofcode.com/2022/day/5)            | [Day 5](Day%205/) | ⭐⭐    | Io                 | 2002 |
-|                                                                 | Day 6             |       | Boo                | 2003 |
+| [Tuning Trouble](https://adventofcode.com/2022/day/6)           | [Day 6](Day%206/) | ⭐⭐    | Scala              | 2003 |
 |                                                                 | Day 7             |       | Groovy             | 2004 |
 |                                                                 | Day 8             |       | F#                 | 2005 |
 |                                                                 | Day 9             |       | Windows PowerShell | 2006 |
@@ -26,7 +26,7 @@ So, what a better way to celebrate than to commemorate the advent of several pro
 |                                                                 | Day 14            |       | Kotlin             | 2011 |
 |                                                                 | Day 15            |       | Julia              | 2012 |
 |                                                                 | Day 16            |       | PureScript         | 2013 |
-|                                                                 | Day 17            |       | Swift              | 2014 |
+|                                                                 | Day 17            |       | Crystal            | 2014 |
 |                                                                 | Day 18            |       | Zig                | 2015 |
 |                                                                 | Day 19            |       | Reason             | 2016 |
 |                                                                 | Day 20            |       | Q#                 | 2017 |
