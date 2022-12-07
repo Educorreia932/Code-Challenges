@@ -8,6 +8,8 @@ Christmas, the perfect occassion to take a trip to the past and remember all the
 
 So, what a better way to celebrate than to commemorate the advent of several programming starting on 1998 and ending on the year of this edition, 2022.
 
+## Challenges
+
 | Challenge                                                       | Solutions         | Stars | Language           | Year |
 |-----------------------------------------------------------------|-------------------|-------|--------------------|------|
 | [Calorie Counting](https://adventofcode.com/2022/day/1)         | [Day 1](Day%201/) | ⭐⭐    | PureBasic          | 1998 |
@@ -16,7 +18,7 @@ So, what a better way to celebrate than to commemorate the advent of several pro
 | [Camp Cleanup](https://adventofcode.com/2022/day/4)             | [Day 4](Day%204/) | ⭐⭐    | Processing         | 2001 |
 | [Supply Stacks](https://adventofcode.com/2022/day/5)            | [Day 5](Day%205/) | ⭐⭐    | Io                 | 2002 |
 | [Tuning Trouble](https://adventofcode.com/2022/day/6)           | [Day 6](Day%206/) | ⭐⭐    | Scala              | 2003 |
-|                                                                 | Day 7             |       | Groovy             | 2004 |
+| [No Space Left On Device](https://adventofcode.com/2022/day/7)  | [Day 7](Day%207/) | ⭐⭐    | Groovy             | 2004 |
 |                                                                 | Day 8             |       | F#                 | 2005 |
 |                                                                 | Day 9             |       | Windows PowerShell | 2006 |
 |                                                                 | Day 10            |       | Clojure            | 2007 |
