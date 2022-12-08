@@ -19,7 +19,7 @@ So, what a better way to celebrate than to commemorate the advent of several pro
 | [Supply Stacks](https://adventofcode.com/2022/day/5)            | [Day 5](Day%205/) | ⭐⭐    | Io                 | 2002 |
 | [Tuning Trouble](https://adventofcode.com/2022/day/6)           | [Day 6](Day%206/) | ⭐⭐    | Scala              | 2003 |
 | [No Space Left On Device](https://adventofcode.com/2022/day/7)  | [Day 7](Day%207/) | ⭐⭐    | Groovy             | 2004 |
-|                                                                 | Day 8             |       | F#                 | 2005 |
+| [Treetop Tree House](https://adventofcode.com/2022/day/8)       | [Day 8](Day%208/) | ⭐     | F#                 | 2005 |
 |                                                                 | Day 9             |       | Windows PowerShell | 2006 |
 |                                                                 | Day 10            |       | Clojure            | 2007 |
 |                                                                 | Day 11            |       | Nim                | 2008 |
