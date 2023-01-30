@@ -1,4 +1,4 @@
-# Advent of ~~Code~~ Time 2022 🎄
+# Advent of ~~Code~~ Time 🕛
 
 <p align="center">
   <img width=250 src="santa.png">
@@ -6,7 +6,7 @@
 
 Christmas, the perfect occassion to take a trip to the past and remember all the good things that happened so far. 
 
-So, what a better way to celebrate than to commemorate the advent of several programming starting on 1998 and ending on the year of this edition, 2022.
+So, what a better way to celebrate than to commemorate the *advent* of several programming starting on 1998 and ending on the year of [this edition](https://adventofcode.com/2022), **2022**.
 
 ## Challenges
 
