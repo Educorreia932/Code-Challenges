@@ -1,0 +1,5 @@
+split :: [a] -> Int -> ([a], [a])
+split [] _ = ([], [])
+split list 0 = ([], list)
+split (x : xs) n = (x : fst splitted, snd splitted)
+    where splitted = split xs (n - 1)
