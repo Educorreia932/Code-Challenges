@@ -1,59 +1,29 @@
-# Code Challenges
+<div align=center>
+    <h1>Conundra</h1>
+</div>
 
-Solutions for programming contests and practice exercises from online judges.
+> ### Noun  
+> **conundra**  
+> 1. *plural* of **conundrum** 
 
-## Advent of Code [🔗](https://adventofcode.com/) [📂](Advent%20of%20Code)
+Personal collection of solutions for programming contests and practice exercises from online judges.
 
-Annual event featuring Christmas-themed puzzles that are meant to be solved with code.
+## 🗃️ Contents 
 
-## code.golf [🔗](https://code.golf/)[📂](code.golf)
+| Name           | Description                                                                                                                              |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Advent of Code | Annual event featuring Christmas-themed puzzles that are meant to be solved with code.                                                   |
+| code.golf      | Recreational programming competition where participants try to produce the shortest possible source code to implement a given algorithm. |
+| Codewars       | Educational programming community where developers train on challenges called *kata*.                                                    |
+| CSS Battle     | Game where players try to replicate a target image using the smallest possible CSS (and minimal HTML).                                   |
+| DatAttack      | Data science hackathon focused on Computer Vision.                                                                                       |
+| DMOJ           | Modern contest platform and archive of programming problems.                                                                             |
+| Exercism       | Open-source coding platform offering practice and mentorship across 50 programming languages.                                            |
+| HackerRank     | Platform offering competitive programming challenges and technical interview preparation.                                                |
+| Hash Code      | Team-based optimization competition organized by Google.                                                                                 |
+| IEEEXtreme     | 24-hour global programming challenge for IEEE student members.                                                                           |
+| LeetCode       | Popular site for solving programming problems and preparing for technical interviews.                                                    |
+| Project Euler  | Collection of mathematical and programming problems requiring creative problem-solving.                                                  |
+| Rosalind       | Platform for learning bioinformatics and programming through problem solving.                                                            |
+| SINF 2020      | Programming competition held by NIAFEUP as part of the SINF event.                                                                       |
 
-Type of recreational computer programming competition in which participants strive to achieve the shortest possible source code that implements a certain algorithm.
-
-## Codewars [🔗](https://www.codewars.com/dashboard)[📂](CodeWars)
-
-Educational community for computer programming. On the platform, software developers train on programming challenges known as kata.
-
-## CSS Battle [🔗](https://cssbattle.dev/)[📂](CSS%20Battle)
-
-Game in which the goal is to replicate an image target with the smallest possible CSS (and slight HTML) code.
-
-## DatAttack [🔗](https://www.instagram.com/datattack.up/)[📂](DatAttack)
-
-Data science hackathon focused on Computer Vision.
-
-## DMOJ [🔗](https://dmoj.ca/)[📂](DMOJ)
-
-Modern contest platform and archive of programming problems.
-
-## Exercism [🔗](https://exercism.io/)[📂](Exercism)
-
-Online, open-source, free coding platform that offers code practice and mentorship on 50 different programming languages.
-
-## HackerRank [🔗](https://www.hackerrank.com/)[📂](HackerRank)
-
-Website that focuses on competitive programming challenges, where developers compete by trying to program according to provided specifications.
-
-## Hash Code [🔗](https://codingcompetitions.withgoogle.com/hashcode/)[📂](Hash%20Code)
-
-Team programming competition, organized by Google, with a single optimization/approximation problem where it's needed to analyze tests and solve them as well as possible.
-
-## IEEEXtreme [🔗](https://ieeextreme.org/)[📂](IEEEXtreme)
-
-Global challenge in which teams of IEEE Student members compete in a 24-hour time span against each other to solve a set of programming problems.
-
-## LeetCode [🔗](https://leetcode.com/)[📂](LeetCode)
-
-Website where people can practice solving coding problems and prepare for technical interviews.
-
-## Project Euler [🔗](https://projecteuler.net/)[📂](Project%20Euler)
-
-Series of challenging mathematical/computer programming problems that require more than just mathematical insights to solve.
-
-## Rosalind [🔗](https://rosalind.info/)[📂](Rosalind)
-
-Platform for learning bioinformatics and programming through problem solving.
-
-## SINF 2020 [🔗](https://www.sinf.pt/competicao-programacao/)[📂](SINF%202020)
-
-Programming competition hold my [NIAFEUP](https://ni.fe.up.pt/) in behalf of the [SINF](https://www.sinf.pt/) event.
